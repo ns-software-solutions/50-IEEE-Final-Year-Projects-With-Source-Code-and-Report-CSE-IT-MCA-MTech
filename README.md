@@ -152,7 +152,7 @@ All links open to official NS Software Solutions project pages.
 |----|------------------------------------|------|
 | 49 | AI Chatbot using NLP               | https://www.nssoftwaresolutions.in/projects/ai-chatbot-nlp |
 | 50 | Sentiment Analysis using Transformers | https://www.nssoftwaresolutions.in/projects/sentiment-analysis-transformer |
-|----|------------------------------------------------|------|
+
 
 📦 What You Get
 	•	Source Code
