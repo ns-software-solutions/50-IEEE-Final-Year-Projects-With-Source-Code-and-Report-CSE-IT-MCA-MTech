@@ -178,8 +178,3 @@ All links open to official NS Software Solutions project pages.
 🌐 **Website:** https://www.nssoftwaresolutions.in  
 📝 **Custom Projects:** https://www.nssoftwaresolutions.in/contact  
 
-📞 Contact for Full Project
-
-📧 Email: info.nssoftwaresolutions@gmail.com
-🌐 Website: https://www.nssoftwaresolutions.in
-📝 Custom Projects: https://www.nssoftwaresolutions.in/contact
