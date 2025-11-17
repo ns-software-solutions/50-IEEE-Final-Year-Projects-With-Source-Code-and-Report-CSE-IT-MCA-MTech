@@ -39,18 +39,6 @@ Our projects span the most in-demand technological domains:
 
 This list contains high-quality, academic-focused projects spanning Machine Learning, Deep Learning, Cybersecurity, NLP, and more. Each slug links to the project details on the NS Software Solutions website.
 
----
-
-Here is the complete list of 28 projects, now including the **full, direct links** derived from the slugs you provided, formatted for a GitHub README.
-
------
-
-## ✨ 28 Advanced IEEE Final Year Projects: Enhanced List with Direct Links 🔗
-
-This list provides the titles and **full URLs** for high-quality, academic-focused projects spanning Machine Learning, Deep Learning, Cybersecurity, NLP, and more.
-
------
-
 ### 🧠 Machine Learning & Deep Learning Projects (Diagnostics & Prediction)
 
 | \# | Project Title | Domain/Focus | Direct Link |
