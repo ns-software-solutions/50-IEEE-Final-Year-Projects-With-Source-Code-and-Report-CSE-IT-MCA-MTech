@@ -58,87 +58,134 @@ Total	50+
 
 ⸻
 
-⭐ IEEE Projects (Based on Your Given Titles)
+# -------------------------------------------------------------------------
+# Comprehensive Academic Project Repository (CSE • IT • MCA • MTech)
+# Source Code | Report | PPT | Research Paper | Plagiarism Check (<15%)
+# -------------------------------------------------------------------------
 
-Below are your exact IEEE titles, converted into clean GitHub tables and SEO-friendly slugs.
+# Contact Information
+EMAIL="info.nssoftwaresolutions@gmail.com"
+WEBSITE="https://www.nssoftwaresolutions.in"
+PROJECTS_PAGE="https://www.nssoftwaresolutions.in/projects"
 
-⸻
+echo "Accessing the NS Software Solutions Project Catalog..."
+echo "Total Projects Available: 50+"
+echo "Core Domains: Machine Learning, Deep Learning, Blockchain, Cybersecurity, NLP, Data Analytics, Web Dev, IoT."
+echo "-------------------------------------------------------------------------"
 
-🧠 IEEE Machine Learning Projects
+# 🧠 Machine Learning Projects (15 Titles)
+echo "## 🧠 Machine Learning Projects"
+printf "%-4s %-70s %s\n" "#" "Project Title" "Link"
+printf "%-4s %-70s %s\n" "----" "----------------------------------------------------------------------" "---------------------------------------------------------------------------------------------------------------------------------------------------------------------"
+printf "%-4s %-70s %s\n" "1" "FractureAI – Bone Fracture Detection (Deep Learning CNNs)" "https://www.nssoftwaresolutions.in/projects/fractureai-revolutionizing-bone-fracture-detection-with-deep-learning-cnns-for-precision-medical-imaging"
+printf "%-4s %-70s %s\n" "2" "Customer Churn Prediction (Telecom Sector - ML Approach)" "https://www.nssoftwaresolutions.in/projects/customer-churn-telecom"
+printf "%-4s %-70s %s\n" "3" "Fake News Detection using ML + NLP (Enhancing False News Detection)" "https://www.nssoftwaresolutions.in/projects/fake-news-detection"
+printf "%-4s %-70s %s\n" "4" "Instagram Reach Prediction (Analysis using ML Algorithms)" "https://www.nssoftwaresolutions.in/projects/instagram-reach-analysis"
+printf "%-4s %-70s %s\n" "5" "Drug Recommendation using Sentiment Analysis (ML Perspective)" "https://www.nssoftwaresolutions.in/projects/drug-recommendation-ml"
+printf "%-4s %-70s %s\n" "6" "Heart Disease Prediction (ML with Data Classification Techniques)" "https://www.nssoftwaresolutions.in/projects/heart-disease-prediction"
+printf "%-4s %-70s %s\n" "7" "Diabetes Prediction (ML in Predictive Fetal Health Assessment)" "https://www.nssoftwaresolutions.in/projects/diabetes-prediction"
+printf "%-4s %-70s %s\n" "8" "Liver Cirrhosis Stage Classification (ML-Driven Exploration)" "https://www.nssoftwaresolutions.in/projects/liver-cirrhosis-ml"
+printf "%-4s %-70s %s\n" "9" "Stroke Prediction (ML and SMOTE Technique for Risk Assessment)" "https://www.nssoftwaresolutions.in/projects/stroke-prediction"
+printf "%-4s %-70s %s\n" "10" "Cricket Score Prediction" "https://www.nssoftwaresolutions.in/projects/cricket-score-ml"
+printf "%-4s %-70s %s\n" "11" "CO₂ Emission Prediction" "https://www.nssoftwaresolutions.in/projects/co2-emission-ml"
+printf "%-4s %-70s %s\n" "12" "Brain Tumor Detection (Deep Learning in Cardiology)" "https://www.nssoftwaresolutions.in/projects/brain-tumor-detection"
+printf "%-4s %-70s %s\n" "13" "Lung Cancer Detection" "https://www.nssoftwaresolutions.in/projects/lung-cancer-detection"
+printf "%-4s %-70s %s\n" "14" "Plant Disease Detection" "https://www.nssoftwaresolutions.in/projects/plant-disease-detection"
+printf "%-4s %-70s %s\n" "15" "Fake Account Detection using ML (Artificial Neural Networks)" "https://www.nssoftwaresolutions.in/projects/fake-account-detection"
 
-⸻
+echo "-------------------------------------------------------------------------"
 
+# 🤖 Deep Learning / Computer Vision Projects (5 Titles)
+echo "## 🤖 Deep Learning / Computer Vision Projects"
+printf "%-4s %-70s %s\n" "#" "Project Title" "Link"
+printf "%-4s %-70s %s\n" "----" "----------------------------------------------------------------------" "---------------------------------------------------------------------------------------------------------------------------------------------------------------------"
+printf "%-4s %-70s %s\n" "16" "Image Inpainting using GAN + PConv (Deep Learning Architectures)" "https://www.nssoftwaresolutions.in/projects/image-inpainting-gan"
+printf "%-4s %-70s %s\n" "17" "Emotion-Based Image Captioning (Affective Visual Encoders)" "https://www.nssoftwaresolutions.in/projects/emotion-image-captioning"
+printf "%-4s %-70s %s\n" "18" "Eye Disease Detection (Optivue - Smart Approach To Eye Health Screening)" "https://www.nssoftwaresolutions.in/projects/eye-disease-detection"
+printf "%-4s %-70s %s\n" "19" "Facial Expression Recognition (AI, ML, DL in Wireless Systems - 5G/6G)" "https://www.nssoftwaresolutions.in/projects/facial-expression-detection"
+printf "%-4s %-70s %s\n" "20" "OCR Text Recognition System (Electronic Gadget Addiction Prediction - ONCS)" "https://www.nssoftwaresolutions.in/projects/ocr-text-recognition"
 
-#	Project Title	Link
-1	A Machine Learning Approach for Customer Churn Prediction in Telecom Sector	https://www.nssoftwaresolutions.in/projects/customer-churn-telecom-sector-ml
-2	Employee Layoff Prediction Using RNN & Hybrid Neuro Classifier	https://www.nssoftwaresolutions.in/projects/employee-layoff-prediction-rnn-hybrid-classifier
-3	Enhancing False News Detection using Supervised ML & NLP	https://www.nssoftwaresolutions.in/projects/false-news-detection-ml-nlp
-4	Drug Recommendations via Sentiment Analysis	https://www.nssoftwaresolutions.in/projects/drug-recommendation-sentiment-analysis
-5	Fake Account Detection using Artificial Neural Networks	https://www.nssoftwaresolutions.in/projects/fake-account-detection-ann
-6	Instagram Reach Analysis using Machine Learning Algorithms	https://www.nssoftwaresolutions.in/projects/instagram-reach-analysis-ml
-7	Predictive Fetal Health Assessment using ML	https://www.nssoftwaresolutions.in/projects/fetal-health-assessment-ml
-8	Malware Detection in Cloud Executables using ML	https://www.nssoftwaresolutions.in/projects/malware-detection-cloud-ml
-9	Liver Cirrhosis Stages Classification (ML-based)	https://www.nssoftwaresolutions.in/projects/liver-cirrhosis-stages-classification-ml
-10	Smart Transit: Real-Time Bus Tracking using Machine Learning	https://www.nssoftwaresolutions.in/projects/smart-transit-bus-tracking-ml
-11	ONCS – Predicting Students’ Gadget Addiction	https://www.nssoftwaresolutions.in/projects/student-gadget-addiction-ml
-12	Customer Personality Prediction for Marketing Optimization	https://www.nssoftwaresolutions.in/projects/customer-personality-prediction-ml
-13	Predicting Heart Diseases using ML Classification Models	https://www.nssoftwaresolutions.in/projects/heart-disease-prediction-ml
-14	Stroke Prediction using ML & SMOTE	https://www.nssoftwaresolutions.in/projects/stroke-risk-prediction-ml-smote
-15	Sentiment Analysis of ML Algorithms (Transformer-Based)	https://www.nssoftwaresolutions.in/projects/sentiment-analysis-transformer-ml
+echo "-------------------------------------------------------------------------"
 
+# 🔐 Cybersecurity & Cryptography Projects (6 Titles)
+echo "## 🔐 Cybersecurity & Cryptography Projects"
+printf "%-4s %-70s %s\n" "#" "Project Title" "Link"
+printf "%-4s %-70s %s\n" "----" "----------------------------------------------------------------------" "---------------------------------------------------------------------------------------------------------------------------------------------------------------------"
+printf "%-4s %-70s %s\n" "21" "URL Phishing Detection" "https://www.nssoftwaresolutions.in/projects/url-phishing-detection"
+printf "%-4s %-70s %s\n" "22" "Credit Card Fraud Detection" "https://www.nssoftwaresolutions.in/projects/credit-card-fraud-detection"
+printf "%-4s %-70s %s\n" "23" "Malware Classification using ML (Malware Detection in Cloud PE Files)" "https://www.nssoftwaresolutions.in/projects/malware-detection-ml"
+printf "%-4s %-70s %s\n" "24" "AES Secure Communication System (Optimizing Security: RSA, ECC, DH)" "https://www.nssoftwaresolutions.in/projects/aes-secure-communication"
+printf "%-4s %-70s %s\n" "25" "Image Steganography Encryption" "https://www.nssoftwaresolutions.in/projects/steganography-encryption"
+printf "%-4s %-70s %s\n" "26" "UPI Fraud Detection using ML (PaySafe Al: Intelligent Fraud Detection)" "https://www.nssoftwaresolutions.in/projects/upi-fraud-detection"
 
-⸻
+echo "-------------------------------------------------------------------------"
 
-🤖 IEEE Deep Learning / AI Projects
+# ⛓️ Blockchain Projects (6 Titles)
+echo "## ⛓️ Blockchain Projects"
+printf "%-4s %-70s %s\n" "#" "Project Title" "Link"
+printf "%-4s %-70s %s\n" "----" "----------------------------------------------------------------------" "---------------------------------------------------------------------------------------------------------------------------------------------------------------------"
+printf "%-4s %-70s %s\n" "27" "Land Registry using Blockchain" "https://www.nssoftwaresolutions.in/projects/land-registry-blockchain"
+printf "%-4s %-70s %s\n" "28" "Blockchain Voting System" "https://www.nssoftwaresolutions.in/projects/blockchain-voting-system"
+printf "%-4s %-70s %s\n" "29" "Blockchain Health Record System (Integration in Secured Framework)" "https://www.nssoftwaresolutions.in/projects/blockchain-health-record"
+printf "%-4s %-70s %s\n" "30" "Blockchain Evidence Management" "https://www.nssoftwaresolutions.in/projects/blockchain-evidence-management"
+printf "%-4s %-70s %s\n" "31" "Blockchain Blood Bank System" "https://www.nssoftwaresolutions.in/projects/blockchain-blood-bank"
+printf "%-4s %-70s %s\n" "32" "Product Authentication using Blockchain" "https://www.nssoftwaresolutions.in/projects/blockchain-product-authentication"
 
-⸻
+echo "-------------------------------------------------------------------------"
 
+# 🌐 Web Development / MERN Projects (6 Titles)
+echo "## 🌐 Web Development / MERN Projects"
+printf "%-4s %-70s %s\n" "#" "Project Title" "Link"
+printf "%-4s %-70s %s\n" "----" "----------------------------------------------------------------------" "---------------------------------------------------------------------------------------------------------------------------------------------------------------------"
+printf "%-4s %-70s %s\n" "33" "AQI Monitoring Web App" "https://www.nssoftwaresolutions.in/projects/aqi-monitoring"
+printf "%-4s %-70s %s\n" "34" "Fashion E-Commerce Website" "https://www.nssoftwaresolutions.in/projects/fashion-ecommerce"
+printf "%-4s %-70s %s\n" "35" "Real Estate Price Prediction App" "https://www.nssoftwaresolutions.in/projects/real-estate-price-ml"
+printf "%-4s %-70s %s\n" "36" "Crime Prediction Web App" "https://www.nssoftwaresolutions.in/projects/crime-prediction"
+printf "%-4s %-70s %s\n" "37" "Face Mask Detection App" "https://www.nssoftwaresolutions.in/projects/face-mask-detection"
+printf "%-4s %-70s %s\n" "38" "Weather Forecast Web Application" "https://www.nssoftwaresolutions.in/projects/weather-forecast"
 
-#	Project Title	Link
-16	Deep Learning & Transfer Learning in Cardiology	https://www.nssoftwaresolutions.in/projects/cardiology-cvd-prediction-dl
-17	Emotion-Conditioned Image Captioning for Visual Artworks	https://www.nssoftwaresolutions.in/projects/emotion-conditioned-image-captioning
-18	FractureAI – Bone Fracture Detection using Deep Learning CNNs	https://www.nssoftwaresolutions.in/projects/fractureai-deep-learning-cnn
-19	Image Inpainting using PConv & GAN	https://www.nssoftwaresolutions.in/projects/image-inpainting-pconv-gan
-20	Optivue – Smart Eye Health Screening (Deep Learning Based)	https://www.nssoftwaresolutions.in/projects/optivue-eye-disease-dl
+echo "-------------------------------------------------------------------------"
 
+# 📡 IoT & Smart Systems Projects (5 Titles)
+echo "## 📡 IoT & Smart Systems Projects"
+printf "%-4s %-70s %s\n" "#" "Project Title" "Link"
+printf "%-4s %-70s %s\n" "----" "----------------------------------------------------------------------" "---------------------------------------------------------------------------------------------------------------------------------------------------------------------"
+printf "%-4s %-70s %s\n" "39" "Smart Transit Bus Tracking (ML-Enabled Smart Transit)" "https://www.nssoftwaresolutions.in/projects/smart-transit-bus-tracking"
+printf "%-4s %-70s %s\n" "40" "Smart Agriculture IoT System" "https://www.nssoftwaresolutions.in/projects/agriculture-monitoring"
+printf "%-4s %-70s %s\n" "41" "Smart Home Automation System" "https://www.nssoftwaresolutions.in/projects/smart-home-automation"
+printf "%-4s %-70s %s\n" "42" "Forest Fire Prediction" "https://www.nssoftwaresolutions.in/projects/forest-fire-prediction"
+printf "%-4s %-70s %s\n" "43" "Road Pavement Detection" "https://www.nssoftwaresolutions.in/projects/road-pavement-detection"
 
-⸻
+echo "-------------------------------------------------------------------------"
 
-📡 IEEE Wireless, Cyber-Physical & Emerging Tech
+# 📊 Data Science & Analytics Projects (5 Titles)
+echo "## 📊 Data Science & Analytics Projects"
+printf "%-4s %-70s %s\n" "#" "Project Title" "Link"
+printf "%-4s %-70s %s\n" "----" "----------------------------------------------------------------------" "---------------------------------------------------------------------------------------------------------------------------------------------------------------------"
+printf "%-4s %-70s %s\n" "44" "Movie Recommendation System" "https://www.nssoftwaresolutions.in/projects/movie-recommendation"
+printf "%-4s %-70s %s\n" "45" "Big Mart Sales Prediction" "https://www.nssoftwaresolutions.in/projects/bigmart-sales-prediction"
+printf "%-4s %-70s %s\n" "46" "Customer Personality Analysis (Predicting Customer Personality)" "https://www.nssoftwaresolutions.in/projects/customer-personality-analysis"
+printf "%-4s %-70s %s\n" "47" "Text Clustering & Classification (Optimizing Textual Data Categorization)" "https://www.nssoftwaresolutions.in/projects/text-clustering"
+printf "%-4s %-70s %s\n" "48" "Data Duplicate Removal using ML" "https://www.nssoftwaresolutions.in/projects/data-duplicate-removal"
 
-⸻
+echo "-------------------------------------------------------------------------"
 
+# 💬 NLP & AI Projects (2 Titles)
+echo "## 💬 NLP & AI Projects"
+printf "%-4s %-70s %s\n" "#" "Project Title" "Link"
+printf "%-4s %-70s %s\n" "----" "----------------------------------------------------------------------" "---------------------------------------------------------------------------------------------------------------------------------------------------------------------"
+printf "%-4s %-70s %s\n" "49" "AI Chatbot using NLP" "https://www.nssoftwaresolutions.in/projects/ai-chatbot-nlp"
+printf "%-4s %-70s %s\n" "50" "Sentiment Analysis using Transformers (Transformer-Based Approach)" "https://www.nssoftwaresolutions.in/projects/sentiment-analysis-transformer"
 
-#	Project Title	Link
-21	From 5G to 6G: Role of AI, ML & Deep Learning	https://www.nssoftwaresolutions.in/projects/5g-to-6g-ai-ml-dl
-22	Learning Models of Cyber-Physical Systems for Digital Twin Synthesis	https://www.nssoftwaresolutions.in/projects/digital-twin-synthesis-cps
-
-
-⸻
-
-🔐 IEEE Security, Cryptography & Fraud Detection
-
-⸻
-
-
-#	Project Title	Link
-23	PaySafe AI – Fraud Detection for UPI Transactions	https://www.nssoftwaresolutions.in/projects/paysafe-upi-fraud-detection
-24	Comparative Analysis of RSA, ECC & DH Algorithms	https://www.nssoftwaresolutions.in/projects/rsa-ecc-dh-comparative-analysis
-
-
-⸻
-
-🧠 IEEE NLP / Data Categorization Projects
-
-⸻
-
-
-#	Project Title	Link
-25	Text Categorization using K-Means, Mean Shift & Hierarchical Models	https://www.nssoftwaresolutions.in/projects/text-categorization-kmeans-meanshift-hierarchical
-26	Secured Mental Health Framework with Blockchain Integration	https://www.nssoftwaresolutions.in/projects/blockchain-mental-health-security
-
-
-⸻
+echo "-------------------------------------------------------------------------"
+echo "### Project Deliverables"
+echo "* Full Source Code + ML/DL Models + Dataset"
+echo "* Detailed Report + PPT + Synopsis"
+echo "* IEEE Research Paper Assistance"
+echo "* Plagiarism Check (<15%) & Turnitin Fixing"
+echo "* Installation Support & Lifetime Technical Support"
+echo "-------------------------------------------------------------------------"
+echo "For a full project or custom requirements, visit the website or contact us."
 
 📦 What You Get
 
