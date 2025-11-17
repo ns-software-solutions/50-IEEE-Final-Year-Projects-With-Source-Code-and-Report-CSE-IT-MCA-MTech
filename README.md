@@ -1,6 +1,5 @@
 ## 🚀 50+ Enhanced IEEE Final Year Projects: Source Code & Full Report (CSE/IT/MCA/MTech)
 ![NS Software Logo](https://i.ibb.co/4wX7Byzg/Youtube-thumbnail-background-Made-with-Poster-My-Wall.jpg)
-This repository offers a curated collection of **50+ high-quality IEEE and academic final year projects**, complete with all necessary resources for academic submission and practical implementation.
 
 We provide **end-to-end support** including source code, documentation, research paper drafting, and plagiarism compliance.
 
@@ -76,17 +75,6 @@ This list contains high-quality, academic-focused projects spanning Machine Lear
 
 -----
 
-### 📦 Complete Project Package Includes
-
-| Deliverable | Key Benefit |
-| :--- | :--- |
-| ✔ **Source Code** | Fully functional and well-documented. |
-| ✔ **Detailed Report & PPT** | Ready for submission (including synopsis). |
-| ✔ **IEEE Research Paper** | Assistance for publication and drafting. |
-| ✔ **Plagiarism Check** | Guarantee of **\<15%** uniqueness. |
-| ✔ **Installation** | Live support for setup and technical queries. |
-
------
 
 ### 📞 Contact for Full Project
 
@@ -98,11 +86,10 @@ This list contains high-quality, academic-focused projects spanning Machine Lear
 | Deliverable | Key Benefit |
 | :--- | :--- |
 | ✔ **Source Code** | Fully functional and well-documented. |
-| ✔ **Detailed Report & PPT** | Ready for submission (including synopsis). |
-| ✔ **IEEE Research Paper** | Assistance for publication and drafting. |
-| ✔ **Plagiarism Check** | Guarantee of **<15%** uniqueness. |
-| ✔ **AI/Turnitin Fixing** | Support to ensure academic originality. |
-| ✔ **Installation & Demo** | Live support for setup and technical queries. |
+| ✔ **Detailed Report & PPT** | Ready for submission according to College Guidelines. |
+| ✔ **IEEE Research Paper** | Assistance for Paper Writeup and publication in Journals and Conferences. |
+| ✔ **Plagiarism Check and Removal** | Guarantee of **<15%** uniqueness. |
+| ✔ **Installation Support** | Setup and Run through AnyDesk. |
 
 ---
 
