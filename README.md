@@ -56,9 +56,7 @@ Total	50+
 
 All links open to official NS Software Solutions project pages.
 
-⸻
-
-## 🧠 Machine Learning Projects
+# 🧠 Machine Learning Projects
 
 | #  | Project Title                                  | Link |
 |----|------------------------------------------------|------|
@@ -79,91 +77,82 @@ All links open to official NS Software Solutions project pages.
 | 15 | Fake Account Detection using ML                | https://www.nssoftwaresolutions.in/projects/fake-account-detection |
 
 
-⸻
+# 🤖 Deep Learning / Computer Vision Projects
 
-🤖 Deep Learning / Computer Vision Projects
-
-#	Project Title	Link
-16	Image Inpainting using GAN + PConv	https://www.nssoftwaresolutions.in/projects/image-inpainting-gan
-17	Emotion-Conditioned Image Captioning	https://www.nssoftwaresolutions.in/projects/emotion-image-captioning
-18	Eye Disease Detection (Optivue)	https://www.nssoftwaresolutions.in/projects/eye-disease-detection
-19	Facial Expression Recognition	https://www.nssoftwaresolutions.in/projects/facial-expression-detection
-20	OCR Text Recognition System	https://www.nssoftwaresolutions.in/projects/ocr-text-recognition
-
-
-⸻
-
-🔐 Cybersecurity & Cryptography Projects
-
-#	Project Title	Link
-21	URL Phishing Detection	https://www.nssoftwaresolutions.in/projects/url-phishing-detection
-22	Credit Card Fraud Detection	https://www.nssoftwaresolutions.in/projects/credit-card-fraud-detection
-23	Malware Classification using ML	https://www.nssoftwaresolutions.in/projects/malware-detection-ml
-24	AES Secure Communication System	https://www.nssoftwaresolutions.in/projects/aes-secure-communication
-25	Image Steganography Encryption	https://www.nssoftwaresolutions.in/projects/steganography-encryption
-26	UPI Fraud Detection using ML	https://www.nssoftwaresolutions.in/projects/upi-fraud-detection
+| #  | Project Title                          | Link |
+|----|----------------------------------------|------|
+| 16 | Image Inpainting using GAN + PConv     | https://www.nssoftwaresolutions.in/projects/image-inpainting-gan |
+| 17 | Emotion-Based Image Captioning         | https://www.nssoftwaresolutions.in/projects/emotion-image-captioning |
+| 18 | Eye Disease Detection (Optivue)        | https://www.nssoftwaresolutions.in/projects/eye-disease-detection |
+| 19 | Facial Expression Recognition          | https://www.nssoftwaresolutions.in/projects/facial-expression-detection |
+| 20 | OCR Text Recognition System            | https://www.nssoftwaresolutions.in/projects/ocr-text-recognition |
 
 
-⸻
+# 🔐 Cybersecurity & Cryptography Projects
 
-⛓️ Blockchain Projects
-
-#	Project Title	Link
-27	Land Registry using Blockchain	https://www.nssoftwaresolutions.in/projects/land-registry-blockchain
-28	Blockchain Voting System	https://www.nssoftwaresolutions.in/projects/blockchain-voting-system
-29	Blockchain Health Record System	https://www.nssoftwaresolutions.in/projects/blockchain-health-record
-30	Blockchain Evidence Management	https://www.nssoftwaresolutions.in/projects/blockchain-evidence-management
-31	Blockchain Blood Bank System	https://www.nssoftwaresolutions.in/projects/blockchain-blood-bank
-32	Product Authentication using Blockchain	https://www.nssoftwaresolutions.in/projects/blockchain-product-authentication
-
-
-⸻
-
-🌐 Web Development / MERN Full-Stack Projects
-
-#	Project Title	Link
-33	AQI Monitoring Web App	https://www.nssoftwaresolutions.in/projects/aqi-monitoring
-34	Fashion E-Commerce Website	https://www.nssoftwaresolutions.in/projects/fashion-ecommerce
-35	Real Estate Price Prediction Web App	https://www.nssoftwaresolutions.in/projects/real-estate-price-ml
-36	Crime Prediction Web App	https://www.nssoftwaresolutions.in/projects/crime-prediction
-37	Face Mask Detection App	https://www.nssoftwaresolutions.in/projects/face-mask-detection
-38	Weather Forecast Web Application	https://www.nssoftwaresolutions.in/projects/weather-forecast
+| #  | Project Title                       | Link |
+|----|-------------------------------------|------|
+| 21 | URL Phishing Detection              | https://www.nssoftwaresolutions.in/projects/url-phishing-detection |
+| 22 | Credit Card Fraud Detection         | https://www.nssoftwaresolutions.in/projects/credit-card-fraud-detection |
+| 23 | Malware Classification using ML     | https://www.nssoftwaresolutions.in/projects/malware-detection-ml |
+| 24 | AES Secure Communication System     | https://www.nssoftwaresolutions.in/projects/aes-secure-communication |
+| 25 | Image Steganography Encryption      | https://www.nssoftwaresolutions.in/projects/steganography-encryption |
+| 26 | UPI Fraud Detection using ML        | https://www.nssoftwaresolutions.in/projects/upi-fraud-detection |
 
 
-⸻
+# ⛓️ Blockchain Projects
 
-📡 IoT & Smart Systems Projects
-
-#	Project Title	Link
-39	Smart Transit Bus Tracking	https://www.nssoftwaresolutions.in/projects/smart-transit-bus-tracking
-40	Smart Agriculture IoT System	https://www.nssoftwaresolutions.in/projects/agriculture-monitoring
-41	Smart Home Automation System	https://www.nssoftwaresolutions.in/projects/smart-home-automation
-42	Forest Fire Prediction	https://www.nssoftwaresolutions.in/projects/forest-fire-prediction
-43	Road Pavement Detection	https://www.nssoftwaresolutions.in/projects/road-pavement-detection
-
-
-⸻
-
-📊 Data Science & Analytics Projects
-
-#	Project Title	Link
-44	Movie Recommendation System	https://www.nssoftwaresolutions.in/projects/movie-recommendation
-45	Big Mart Sales Prediction	https://www.nssoftwaresolutions.in/projects/bigmart-sales-prediction
-46	Customer Personality Analysis	https://www.nssoftwaresolutions.in/projects/customer-personality-analysis
-47	Text Clustering & Classification	https://www.nssoftwaresolutions.in/projects/text-clustering
-48	Data Duplicate Removal using ML	https://www.nssoftwaresolutions.in/projects/data-duplicate-removal
+| #  | Project Title                        | Link |
+|----|---------------------------------------|------|
+| 27 | Land Registry using Blockchain        | https://www.nssoftwaresolutions.in/projects/land-registry-blockchain |
+| 28 | Blockchain Voting System              | https://www.nssoftwaresolutions.in/projects/blockchain-voting-system |
+| 29 | Blockchain Health Record System       | https://www.nssoftwaresolutions.in/projects/blockchain-health-record |
+| 30 | Blockchain Evidence Management        | https://www.nssoftwaresolutions.in/projects/blockchain-evidence-management |
+| 31 | Blockchain Blood Bank System          | https://www.nssoftwaresolutions.in/projects/blockchain-blood-bank |
+| 32 | Product Authentication using Blockchain | https://www.nssoftwaresolutions.in/projects/blockchain-product-authentication |
 
 
-⸻
+# 🌐 Web Development / MERN Projects
 
-💬 NLP & AI Projects
+| #  | Project Title                      | Link |
+|----|------------------------------------|------|
+| 33 | AQI Monitoring Web App             | https://www.nssoftwaresolutions.in/projects/aqi-monitoring |
+| 34 | Fashion E-Commerce Website         | https://www.nssoftwaresolutions.in/projects/fashion-ecommerce |
+| 35 | Real Estate Price Prediction App   | https://www.nssoftwaresolutions.in/projects/real-estate-price-ml |
+| 36 | Crime Prediction Web App           | https://www.nssoftwaresolutions.in/projects/crime-prediction |
+| 37 | Face Mask Detection App            | https://www.nssoftwaresolutions.in/projects/face-mask-detection |
+| 38 | Weather Forecast Web Application   | https://www.nssoftwaresolutions.in/projects/weather-forecast |
 
-#	Project Title	Link
-49	AI Chatbot using NLP	https://www.nssoftwaresolutions.in/projects/ai-chatbot-nlp
-50	Sentiment Analysis using Transformers	https://www.nssoftwaresolutions.in/projects/sentiment-analysis-transformer
+
+# 📡 IoT & Smart Systems Projects
+
+| #  | Project Title                     | Link |
+|----|-----------------------------------|------|
+| 39 | Smart Transit Bus Tracking        | https://www.nssoftwaresolutions.in/projects/smart-transit-bus-tracking |
+| 40 | Smart Agriculture IoT System      | https://www.nssoftwaresolutions.in/projects/agriculture-monitoring |
+| 41 | Smart Home Automation System      | https://www.nssoftwaresolutions.in/projects/smart-home-automation |
+| 42 | Forest Fire Prediction            | https://www.nssoftwaresolutions.in/projects/forest-fire-prediction |
+| 43 | Road Pavement Detection           | https://www.nssoftwaresolutions.in/projects/road-pavement-detection |
 
 
-⸻
+# 📊 Data Science & Analytics Projects
+
+| #  | Project Title                      | Link |
+|----|------------------------------------|------|
+| 44 | Movie Recommendation System         | https://www.nssoftwaresolutions.in/projects/movie-recommendation |
+| 45 | Big Mart Sales Prediction           | https://www.nssoftwaresolutions.in/projects/bigmart-sales-prediction |
+| 46 | Customer Personality Analysis       | https://www.nssoftwaresolutions.in/projects/customer-personality-analysis |
+| 47 | Text Clustering & Classification    | https://www.nssoftwaresolutions.in/projects/text-clustering |
+| 48 | Data Duplicate Removal using ML     | https://www.nssoftwaresolutions.in/projects/data-duplicate-removal |
+
+
+# 💬 NLP & AI Projects
+
+| #  | Project Title                      | Link |
+|----|------------------------------------|------|
+| 49 | AI Chatbot using NLP               | https://www.nssoftwaresolutions.in/projects/ai-chatbot-nlp |
+| 50 | Sentiment Analysis using Transformers | https://www.nssoftwaresolutions.in/projects/sentiment-analysis-transformer |
+|----|------------------------------------------------|------|
 
 📦 What You Get
 	•	Source Code
