@@ -1,180 +1,177 @@
-# 🚀 50+ IEEE Final Year Projects With Source Code & Report (CSE • IT • MCA • MTech)
+Understood — you want the entire README redesigned using GitHub-friendly Markdown table separators using:
+	•	# for titles
+	•	--- for section dividers
+	•	Proper | column | column | Markdown tables
+	•	Perfect formatting for copy-paste into README.md
 
-Complete academic projects with **Source Code, Report, PPT, Installation Support, Research Paper Assistance, Plagiarism Check (<15%), AI/Turnitin Fixing & Live Support**.
+Here is the clean, redesigned, fully table-formatted README using # and — exactly as requested.
 
-📧 **Email:** info.nssoftwaresolutions@gmail.com  
-🌐 **Website:** https://www.nssoftwaresolutions.in/  
-📦 **All Projects:** https://www.nssoftwaresolutions.in/projects  
+⸻
 
----
+🚀 50+ IEEE Final Year Projects With Source Code & Reports (CSE • IT • MCA • MTech)
 
-## 📌 About This Repository
+Complete academic projects with Source Code, Report, PPT, IEEE Paper Help, Installation Support, Plagiarism <15%, AI/Turnitin Fixing & Lifetime Support.
 
-This repository provides **50+ high-quality IEEE & academic final year projects** across multiple domains:
+📧 Email: info.nssoftwaresolutions@gmail.com
+🌐 Website: https://www.nssoftwaresolutions.in
+📦 All Projects: https://www.nssoftwaresolutions.in/projects
 
-- Machine Learning  
-- Deep Learning  
-- Blockchain  
-- Cybersecurity  
-- NLP  
-- Data Analytics  
-- Web Development  
-- IoT / Smart Systems  
-- Python / AI Projects  
+⸻
 
-Each project comes with:
+📌 About This Repository
 
-✔ Full Source Code  
-✔ Project Report  
-✔ PPT  
-✔ Synopsis  
-✔ IEEE Research Paper  
-✔ Installation Support  
-✔ Plagiarism <15%  
-✔ Turnitin Fixing  
-✔ Demo Video  
-✔ Lifetime Support  
+This repository provides 50+ IEEE & advanced academic projects across:
+	•	Machine Learning
+	•	Deep Learning
+	•	AI
+	•	Blockchain
+	•	Cybersecurity
+	•	Data Analytics
+	•	IoT
+	•	Web Development
 
----
+Each project includes:
 
-## 🔥 Project Categories
+✔ Full Source Code
+✔ Documentation + Report
+✔ PPT + Synopsis
+✔ IEEE Paper Assistance
+✔ Installation Support
+✔ Plagiarism Fix (<15%)
+✔ AI/Turnitin Checking Help
 
-| Category              | Count |
-|----------------------|-------|
-| Machine Learning     | 15    |
-| Deep Learning        | 5     |
-| NLP                  | 5     |
-| Blockchain           | 6     |
-| Web / MERN           | 6     |
-| IoT & Smart Systems  | 5     |
-| Cybersecurity        | 4     |
-| Data Analytics       | 5     |
-| **Total**            | **50+** |
+⸻
 
----
+🔥 Project Categories
 
-
-
-⭐ 50 IEEE Final Year Projects (With Direct Links)
-
-All links open to official NS Software Solutions project pages.
-
-# 🧠 Machine Learning Projects
-
-| #  | Project Title                                  | Link |
-|----|------------------------------------------------|------|
-| 1  | FractureAI – Bone Fracture Detection           | https://www.nssoftwaresolutions.in/projects/fractureai-revolutionizing-bone-fracture-detection-with-deep-learning-cnns-for-precision-medical-imaging |
-| 2  | Customer Churn Prediction (Telecom)            | https://www.nssoftwaresolutions.in/projects/customer-churn-telecom |
-| 3  | Fake News Detection using ML + NLP             | https://www.nssoftwaresolutions.in/projects/fake-news-detection |
-| 4  | Instagram Reach Prediction                     | https://www.nssoftwaresolutions.in/projects/instagram-reach-analysis |
-| 5  | Drug Recommendation using Sentiment Analysis   | https://www.nssoftwaresolutions.in/projects/drug-recommendation-ml |
-| 6  | Heart Disease Prediction                       | https://www.nssoftwaresolutions.in/projects/heart-disease-prediction |
-| 7  | Diabetes Prediction                            | https://www.nssoftwaresolutions.in/projects/diabetes-prediction |
-| 8  | Liver Cirrhosis Stage Classification           | https://www.nssoftwaresolutions.in/projects/liver-cirrhosis-ml |
-| 9  | Stroke Prediction                              | https://www.nssoftwaresolutions.in/projects/stroke-prediction |
-| 10 | Cricket Score Prediction                       | https://www.nssoftwaresolutions.in/projects/cricket-score-ml |
-| 11 | CO₂ Emission Prediction                        | https://www.nssoftwaresolutions.in/projects/co2-emission-ml |
-| 12 | Brain Tumor Detection                          | https://www.nssoftwaresolutions.in/projects/brain-tumor-detection |
-| 13 | Lung Cancer Detection                          | https://www.nssoftwaresolutions.in/projects/lung-cancer-detection |
-| 14 | Plant Disease Detection                        | https://www.nssoftwaresolutions.in/projects/plant-disease-detection |
-| 15 | Fake Account Detection using ML                | https://www.nssoftwaresolutions.in/projects/fake-account-detection |
+Category	Count
+Machine Learning	15
+Deep Learning	5
+NLP	5
+Blockchain	6
+Web / MERN	6
+IoT & Smart Systems	5
+Cybersecurity	4
+Data Analytics	5
+Total	50+
 
 
-# 🤖 Deep Learning / Computer Vision Projects
+⸻
 
-| #  | Project Title                          | Link |
-|----|----------------------------------------|------|
-| 16 | Image Inpainting using GAN + PConv     | https://www.nssoftwaresolutions.in/projects/image-inpainting-gan |
-| 17 | Emotion-Based Image Captioning         | https://www.nssoftwaresolutions.in/projects/emotion-image-captioning |
-| 18 | Eye Disease Detection (Optivue)        | https://www.nssoftwaresolutions.in/projects/eye-disease-detection |
-| 19 | Facial Expression Recognition          | https://www.nssoftwaresolutions.in/projects/facial-expression-detection |
-| 20 | OCR Text Recognition System            | https://www.nssoftwaresolutions.in/projects/ocr-text-recognition |
+⭐ IEEE Projects (Based on Your Given Titles)
 
+Below are your exact IEEE titles, converted into clean GitHub tables and SEO-friendly slugs.
 
-# 🔐 Cybersecurity & Cryptography Projects
+⸻
 
-| #  | Project Title                       | Link |
-|----|-------------------------------------|------|
-| 21 | URL Phishing Detection              | https://www.nssoftwaresolutions.in/projects/url-phishing-detection |
-| 22 | Credit Card Fraud Detection         | https://www.nssoftwaresolutions.in/projects/credit-card-fraud-detection |
-| 23 | Malware Classification using ML     | https://www.nssoftwaresolutions.in/projects/malware-detection-ml |
-| 24 | AES Secure Communication System     | https://www.nssoftwaresolutions.in/projects/aes-secure-communication |
-| 25 | Image Steganography Encryption      | https://www.nssoftwaresolutions.in/projects/steganography-encryption |
-| 26 | UPI Fraud Detection using ML        | https://www.nssoftwaresolutions.in/projects/upi-fraud-detection |
+🧠 IEEE Machine Learning Projects
+
+⸻
 
 
-# ⛓️ Blockchain Projects
-
-| #  | Project Title                        | Link |
-|----|---------------------------------------|------|
-| 27 | Land Registry using Blockchain        | https://www.nssoftwaresolutions.in/projects/land-registry-blockchain |
-| 28 | Blockchain Voting System              | https://www.nssoftwaresolutions.in/projects/blockchain-voting-system |
-| 29 | Blockchain Health Record System       | https://www.nssoftwaresolutions.in/projects/blockchain-health-record |
-| 30 | Blockchain Evidence Management        | https://www.nssoftwaresolutions.in/projects/blockchain-evidence-management |
-| 31 | Blockchain Blood Bank System          | https://www.nssoftwaresolutions.in/projects/blockchain-blood-bank |
-| 32 | Product Authentication using Blockchain | https://www.nssoftwaresolutions.in/projects/blockchain-product-authentication |
-
-
-# 🌐 Web Development / MERN Projects
-
-| #  | Project Title                      | Link |
-|----|------------------------------------|------|
-| 33 | AQI Monitoring Web App             | https://www.nssoftwaresolutions.in/projects/aqi-monitoring |
-| 34 | Fashion E-Commerce Website         | https://www.nssoftwaresolutions.in/projects/fashion-ecommerce |
-| 35 | Real Estate Price Prediction App   | https://www.nssoftwaresolutions.in/projects/real-estate-price-ml |
-| 36 | Crime Prediction Web App           | https://www.nssoftwaresolutions.in/projects/crime-prediction |
-| 37 | Face Mask Detection App            | https://www.nssoftwaresolutions.in/projects/face-mask-detection |
-| 38 | Weather Forecast Web Application   | https://www.nssoftwaresolutions.in/projects/weather-forecast |
+#	Project Title	Link
+1	A Machine Learning Approach for Customer Churn Prediction in Telecom Sector	https://www.nssoftwaresolutions.in/projects/customer-churn-telecom-sector-ml
+2	Employee Layoff Prediction Using RNN & Hybrid Neuro Classifier	https://www.nssoftwaresolutions.in/projects/employee-layoff-prediction-rnn-hybrid-classifier
+3	Enhancing False News Detection using Supervised ML & NLP	https://www.nssoftwaresolutions.in/projects/false-news-detection-ml-nlp
+4	Drug Recommendations via Sentiment Analysis	https://www.nssoftwaresolutions.in/projects/drug-recommendation-sentiment-analysis
+5	Fake Account Detection using Artificial Neural Networks	https://www.nssoftwaresolutions.in/projects/fake-account-detection-ann
+6	Instagram Reach Analysis using Machine Learning Algorithms	https://www.nssoftwaresolutions.in/projects/instagram-reach-analysis-ml
+7	Predictive Fetal Health Assessment using ML	https://www.nssoftwaresolutions.in/projects/fetal-health-assessment-ml
+8	Malware Detection in Cloud Executables using ML	https://www.nssoftwaresolutions.in/projects/malware-detection-cloud-ml
+9	Liver Cirrhosis Stages Classification (ML-based)	https://www.nssoftwaresolutions.in/projects/liver-cirrhosis-stages-classification-ml
+10	Smart Transit: Real-Time Bus Tracking using Machine Learning	https://www.nssoftwaresolutions.in/projects/smart-transit-bus-tracking-ml
+11	ONCS – Predicting Students’ Gadget Addiction	https://www.nssoftwaresolutions.in/projects/student-gadget-addiction-ml
+12	Customer Personality Prediction for Marketing Optimization	https://www.nssoftwaresolutions.in/projects/customer-personality-prediction-ml
+13	Predicting Heart Diseases using ML Classification Models	https://www.nssoftwaresolutions.in/projects/heart-disease-prediction-ml
+14	Stroke Prediction using ML & SMOTE	https://www.nssoftwaresolutions.in/projects/stroke-risk-prediction-ml-smote
+15	Sentiment Analysis of ML Algorithms (Transformer-Based)	https://www.nssoftwaresolutions.in/projects/sentiment-analysis-transformer-ml
 
 
-# 📡 IoT & Smart Systems Projects
+⸻
 
-| #  | Project Title                     | Link |
-|----|-----------------------------------|------|
-| 39 | Smart Transit Bus Tracking        | https://www.nssoftwaresolutions.in/projects/smart-transit-bus-tracking |
-| 40 | Smart Agriculture IoT System      | https://www.nssoftwaresolutions.in/projects/agriculture-monitoring |
-| 41 | Smart Home Automation System      | https://www.nssoftwaresolutions.in/projects/smart-home-automation |
-| 42 | Forest Fire Prediction            | https://www.nssoftwaresolutions.in/projects/forest-fire-prediction |
-| 43 | Road Pavement Detection           | https://www.nssoftwaresolutions.in/projects/road-pavement-detection |
+🤖 IEEE Deep Learning / AI Projects
+
+⸻
 
 
-# 📊 Data Science & Analytics Projects
-
-| #  | Project Title                      | Link |
-|----|------------------------------------|------|
-| 44 | Movie Recommendation System         | https://www.nssoftwaresolutions.in/projects/movie-recommendation |
-| 45 | Big Mart Sales Prediction           | https://www.nssoftwaresolutions.in/projects/bigmart-sales-prediction |
-| 46 | Customer Personality Analysis       | https://www.nssoftwaresolutions.in/projects/customer-personality-analysis |
-| 47 | Text Clustering & Classification    | https://www.nssoftwaresolutions.in/projects/text-clustering |
-| 48 | Data Duplicate Removal using ML     | https://www.nssoftwaresolutions.in/projects/data-duplicate-removal |
+#	Project Title	Link
+16	Deep Learning & Transfer Learning in Cardiology	https://www.nssoftwaresolutions.in/projects/cardiology-cvd-prediction-dl
+17	Emotion-Conditioned Image Captioning for Visual Artworks	https://www.nssoftwaresolutions.in/projects/emotion-conditioned-image-captioning
+18	FractureAI – Bone Fracture Detection using Deep Learning CNNs	https://www.nssoftwaresolutions.in/projects/fractureai-deep-learning-cnn
+19	Image Inpainting using PConv & GAN	https://www.nssoftwaresolutions.in/projects/image-inpainting-pconv-gan
+20	Optivue – Smart Eye Health Screening (Deep Learning Based)	https://www.nssoftwaresolutions.in/projects/optivue-eye-disease-dl
 
 
-# 💬 NLP & AI Projects
+⸻
 
-| #  | Project Title                      | Link |
-|----|------------------------------------|------|
-| 49 | AI Chatbot using NLP               | https://www.nssoftwaresolutions.in/projects/ai-chatbot-nlp |
-| 50 | Sentiment Analysis using Transformers | https://www.nssoftwaresolutions.in/projects/sentiment-analysis-transformer |
----------------------------------------
+📡 IEEE Wireless, Cyber-Physical & Emerging Tech
 
-## 📦 What You Get
+⸻
 
-- Source Code  
-- ML / DL Models  
-- Dataset (if available)  
-- Detailed Report  
-- PPT + Synopsis  
-- IEEE Research Paper  
-- Plagiarism Report (<15%)  
-- Turnitin Fixing Assistance  
-- Demo + Installation Setup  
-- Lifetime Technical Support  
 
----
+#	Project Title	Link
+21	From 5G to 6G: Role of AI, ML & Deep Learning	https://www.nssoftwaresolutions.in/projects/5g-to-6g-ai-ml-dl
+22	Learning Models of Cyber-Physical Systems for Digital Twin Synthesis	https://www.nssoftwaresolutions.in/projects/digital-twin-synthesis-cps
 
-## 📞 Contact for Full Project
 
-📧 **Email:** info.nssoftwaresolutions@gmail.com  
-🌐 **Website:** https://www.nssoftwaresolutions.in  
-📝 **Custom Projects:** https://www.nssoftwaresolutions.in/contact  
+⸻
 
+🔐 IEEE Security, Cryptography & Fraud Detection
+
+⸻
+
+
+#	Project Title	Link
+23	PaySafe AI – Fraud Detection for UPI Transactions	https://www.nssoftwaresolutions.in/projects/paysafe-upi-fraud-detection
+24	Comparative Analysis of RSA, ECC & DH Algorithms	https://www.nssoftwaresolutions.in/projects/rsa-ecc-dh-comparative-analysis
+
+
+⸻
+
+🧠 IEEE NLP / Data Categorization Projects
+
+⸻
+
+
+#	Project Title	Link
+25	Text Categorization using K-Means, Mean Shift & Hierarchical Models	https://www.nssoftwaresolutions.in/projects/text-categorization-kmeans-meanshift-hierarchical
+26	Secured Mental Health Framework with Blockchain Integration	https://www.nssoftwaresolutions.in/projects/blockchain-mental-health-security
+
+
+⸻
+
+📦 What You Get
+
+⸻
+
+	•	Complete Source Code
+	•	ML/DL Models
+	•	Dataset (if applicable)
+	•	Report + Documentation
+	•	PPT & Synopsis
+	•	IEEE Research Paper Help
+	•	Plagiarism & AI Text Removal (<15%)
+	•	Turnitin Checking & Fixing
+	•	Demo Video + Installation Setup
+	•	Lifetime Technical Support
+
+⸻
+
+📞 Contact for Full Project
+
+⸻
+
+📧 info.nssoftwaresolutions@gmail.com
+🌐 https://www.nssoftwaresolutions.in
+📝 Custom Projects: https://www.nssoftwaresolutions.in/contact
+
+⸻
+
+If you want, I can now:
+
+✅ Merge IEEE list + your 50 ML/AI/Blockchain list
+✅ Add badges (stars, forks, visitors, license)
+✅ Add GIF banner or project grid
+✅ Build a perfect GitHub selling README
+
+Just say: “Build Full Premium README”
